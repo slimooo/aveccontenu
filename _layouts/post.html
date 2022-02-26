@@ -9,6 +9,11 @@ layout: default
     <p class="f-mono ts-0-9" itemprop="datePublished">{{ page.date | date_to_string }}</p>
   </div>
   <div class="article__body">
+    {% if page.image %}
+    <div class="article__image mb-2">
+      <img alt="{{ page.title }}" src="{{ page.image }}" data-loaded="true" class="img-loaded" title="{{ page.title }}">
+    </div>
+    {% endif %}
     {{ page.content }}
   </div>
 </article>
@@ -41,7 +46,7 @@ layout: default
         {% endfor %}
       </div>
       <div class="resources__button">
-        <a href="{{ site.url }}" title="{{ site.title }}" aria-label="{{ site.title }}" class="bg-black button td-none"> View All </a>
+        <a href="/blogs" title="{{ site.title }}" aria-label="{{ site.title }}" class="bg-black button td-none"> View All </a>
       </div>
     </div>
   </div>

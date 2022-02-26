@@ -20,6 +20,16 @@ layout: post
             strategy has been tested, isn’t subject to bias and is in the best shape possible to achieve growth and succeed.
         </p>
         <p dir="ltr">Below we discuss the best ways to find a co-founder. <br /></p>
+        <div class="article__quote mb-2">
+        <blockquote class="quote quote--article">
+        <p class="m-0">
+            “Accountancy Cloud helps us to hire quickly, they consistently provide affordable essential accountancy services and they’ve supported our R&amp;D tax credit application every year successfully!”
+        </p>
+        <cite>
+            Saasha Celestial-One, Co-Founder &amp; COO of OLIO
+        </cite>
+     </blockquote>
+      </div>
     </div>
     <div class="article__large-content mb-2 mt-1">
         <h3>Find a co-founder</h3>

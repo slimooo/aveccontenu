@@ -1,6 +1,7 @@
 ---
 title: "What are the most Popular Startup Sectors in 2022"
 image: "/assets/images/blogs/blog_11.jpg"
+youtube_video_url: ""
 date: 2022-02-19 00:07:25 +0600
 layout: post
 ---
@@ -10,7 +11,6 @@ layout: post
         The blog will outline the steps you can take to find a co-founder. We will also discuss why it’s important to have help as a founder of a startup.
     </div>
     <div class="article__large-content mb-2 mt-1">
-        <h3></h3>
         <p dir="ltr">
             There have been some huge challenges facing entrepreneurs recently. The not inconsiderable difficulties of Brexit, Covid-19, global supply chain delays, raw material shortages and climate change amongst them! The startups that
             have survived and flourished have been the ones that were most dynamic and creative by nature. These traits are inherent to enterprises that are collaborative by nature.
@@ -20,6 +20,11 @@ layout: post
             strategy has been tested, isn’t subject to bias and is in the best shape possible to achieve growth and succeed.
         </p>
         <p dir="ltr">Below we discuss the best ways to find a co-founder. <br /></p>
+    </div>
+    <div class="article__video mb-2" data-video="true">
+        <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
+            <iframe src="https://www.youtube.com/embed/d48IYmKHwAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        </div>
     </div>
     <div class="article__large-content mb-2 mt-1">
         <h3>Find a co-founder</h3>
