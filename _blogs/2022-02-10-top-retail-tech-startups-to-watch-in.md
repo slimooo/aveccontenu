@@ -147,14 +147,10 @@ li {
 
 youtube simple example:
 
-<div class="article__video mb-2" data-video="true">
-    <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
-        <iframe src="https://www.youtube.com/embed/d48IYmKHwAU"
+<iframe src="https://www.youtube.com/embed/d48IYmKHwAU"
 title="YouTube video player"
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
 </iframe>
-    </div>
-</div>
 
 blockquote simple example:
 
