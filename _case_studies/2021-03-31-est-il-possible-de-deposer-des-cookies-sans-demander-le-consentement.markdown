@@ -15,6 +15,7 @@ L’utilisation de cookies donne lieu le plus souvent à la collecte de données
 
 L’éditeur devra alors informer l’utilisateur et recueillir son consentement avant tout dépôt ou lecture de cookies sur le site.
 
+
 ## Dans quels cas le consentement est-il facultatif ?
 
 L’article 5 des [lignes directrices de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/lignes_directrices_de_la_cnil_sur_les_cookies_et_autres_traceurs.pdf) dispose que dans certains cas le recueillement du consentement est facultatif. Cette exemption d’obligation est valable pour les traceurs dont la finalité se rattache aux exceptions prévues à l’[article 82 de la loi Informatique et Libertés](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037813978/).

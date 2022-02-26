@@ -2,7 +2,7 @@
 layout: post
 title:  "Case Studies Title three"
 image: "/assets/images/post_03.jpg"
-categories: jekyll update
+categories: nouvelle
 date: 2022-02-17 00:07:25 +0600
 ---
 
