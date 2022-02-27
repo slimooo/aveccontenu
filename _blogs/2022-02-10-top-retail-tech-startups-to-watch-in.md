@@ -19,16 +19,16 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 blockquote simple example:
 
-        <div class="article__quote mb-2">
-        <blockquote class="quote quote--article">
-        <p class="m-0">
-            “Accountancy Cloud helps us to hire quickly, they consistently provide affordable essential accountancy services and they’ve supported our R&amp;D tax credit application every year successfully!”
-        </p>
-        <cite>
-            Saasha Celestial-One, Co-Founder &amp; COO of OLIO
-        </cite>
-     </blockquote>
-      </div>
+    <div class="article__quote mb-2">
+    <blockquote class="quote quote--article">
+    <p class="m-0">
+      “Accountancy Cloud helps us to hire quickly, they consistently provide affordable essential accountancy services and they’ve supported our R&amp;D tax credit application every year successfully!”
+    </p>
+    <cite>
+      Saasha Celestial-One, Co-Founder &amp; COO of OLIO
+    </cite>
+    </blockquote>
+    </div>
 
 blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla blabla blabalabla
 
