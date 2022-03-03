@@ -2,7 +2,7 @@
     color: #c9e4cb;
 }
 .c-primaryDark {
-    color: #8bd4d6;
+    color: #c9e4cb;
 }
 .c-primaryLight {
     color: #e2f4f5;
@@ -65,7 +65,7 @@
     background-color: #c9e4cb;
 }
 .bg-primaryDark {
-    background-color: #8bd4d6;
+    background-color: #c9e4cb;
 }
 .bg-primaryLight {
     background-color: #e2f4f5;
@@ -2299,8 +2299,8 @@ body div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner p {
     color: #000 !important;
 }
 body div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-confirmation-button {
-    background: #8bd4d6 !important;
-    border-color: #8bd4d6 !important;
+    background: #c9e4cb !important;
+    border-color: #c9e4cb !important;
     font: 700 0.85rem/1.4 Akkurat, Helvetica, sans-serif;
     color: #000 !important;
     border-radius: 100px;
@@ -3687,7 +3687,7 @@ blockquote:not(.quote--article) cite .quote__image {
 .content__form form .freeform-row .form__checkbox input:checked ~ .checkmark,
 .modal__body form .freeform-row .form__checkbox input:checked ~ .checkmark {
     background: #fff;
-    border-color: #8bd4d6;
+    border-color: #c9e4cb;
 }
 .content__form form .freeform-row .form__checkbox input:checked ~ .checkmark:after,
 .modal__body form .freeform-row .form__checkbox input:checked ~ .checkmark:after {
@@ -3751,7 +3751,7 @@ blockquote:not(.quote--article) cite .quote__image {
 .modal__body--custom form .freeform-row input:not([type="checkbox"]):focus,
 .modal__body--custom form .freeform-row select:focus,
 .modal__body--custom form .freeform-row textarea:focus {
-    border-color: #8bd4d6;
+    border-color: #c9e4cb;
 }
 .content__form--custom form .freeform-row .form__checkbox,
 .modal__body--custom form .freeform-row .form__checkbox {
@@ -3781,7 +3781,7 @@ blockquote:not(.quote--article) cite .quote__image {
 .content__form--custom form .freeform-row .form__checkbox input:checked ~ .checkmark,
 .modal__body--custom form .freeform-row .form__checkbox input:checked ~ .checkmark {
     background: #fff;
-    border-color: #8bd4d6;
+    border-color: #c9e4cb;
 }
 .content__form--custom form .freeform-row .form__checkbox input:checked ~ .checkmark:after,
 .modal__body--custom form .freeform-row .form__checkbox input:checked ~ .checkmark:after {
@@ -3982,7 +3982,7 @@ blockquote:not(.quote--article) cite .quote__image {
     width: 1em;
     height: 1em;
     border-radius: 0.5em;
-    background: #8bd4d6;
+    background: #c9e4cb;
 }
 .freeform-custom .radio-group li label span {
     display: block;
@@ -6975,7 +6975,7 @@ html.menu-opening .site-header__menu-navigation.menu-opened {
 .signup-form__inner {
     position: relative;
     z-index: 1;
-    border: 1px solid #8bd4d6;
+    border: 1px solid #c9e4cb;
 }
 @media only screen and (min-width: 62.5em) {
     .signup-form__inner {
@@ -7133,7 +7133,7 @@ html.menu-opening .site-header__menu-navigation.menu-opened {
 }
 .signup-form form .form__checkbox input:checked ~ .checkmark {
     background: #fff;
-    border-color: #8bd4d6;
+    border-color: #c9e4cb;
 }
 .signup-form form .form__checkbox input:checked ~ .checkmark:after {
     display: block;
