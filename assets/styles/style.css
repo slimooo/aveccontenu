@@ -2218,7 +2218,7 @@ button {
     cursor: pointer;
     padding: 0.7rem 1.7rem;
     display: inline-block;
-    color: #000;
+    color: #fff;
     background: #84c188;
     border: 0;
     border-radius: 100px;
@@ -3296,7 +3296,6 @@ blockquote:not(.quote--article) cite .quote__image {
 }
 .content-grid-platform + .content-grid-platform .content-grid__blocks--platform .heading--grid:before {
     content: "";
-    background-image: url(../images/divider-two_2x.png);
     position: absolute;
     top: -4rem;
     left: 0;
@@ -3416,7 +3415,6 @@ blockquote:not(.quote--article) cite .quote__image {
 }
 .pricing__grid-faq .faq:after {
     content: "";
-    background-image: url(../images/divider-one_2x.png);
     position: absolute;
     bottom: 0;
     left: 0;
@@ -5467,7 +5465,6 @@ html.menu-opening .site-header__menu-navigation.menu-opened {
     position: relative;
 }
 .site-footer__menus:after {
-    content: url(../images/footer-divider.png);
     position: absolute;
     bottom: 0;
     left: 0;
@@ -5752,7 +5749,6 @@ html.menu-opening .site-header__menu-navigation.menu-opened {
 }
 .content__body-sidebar:after {
     content: "";
-    background-image: url(../images/divider-three_2x.png);
     position: absolute;
     bottom: 0;
     left: 0;
