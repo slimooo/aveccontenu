@@ -2226,8 +2226,9 @@ button {
 }
 .button.bg-black,
 button.bg-black {
-    background: #000;
+    background: #012c44;
     color: #fff;
+    border: 1px solid #012c44;
 }
 .button.bg-link,
 button.bg-link {
@@ -2254,15 +2255,15 @@ button--tag {
 }
 .button--ghost,
 button--ghost {
-    background: transparent;
-    border: 1px solid #000;
+    background: #84c188;
+    border: 1px solid #84c188;
 }
 @media only screen and (min-width: 62.5em) {
     .button--ghost:focus,
     .button--ghost:hover,
     button--ghost:focus,
     button--ghost:hover {
-        background: #000;
+        background: transparent;
         color: #fff;
     }
 }
