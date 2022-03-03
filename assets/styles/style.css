@@ -11,7 +11,7 @@
     color: #fdeced;
 }
 .c-secondaryDark {
-    color: #f7b2b7;
+    color: #84c188;
 }
 .c-tertiary {
     color: #012c44;
@@ -74,7 +74,7 @@
     background-color: #fdeced;
 }
 .bg-secondaryDark {
-    background-color: #f7b2b7;
+    background-color: #84c188;
 }
 .bg-tertiary {
     background-color: #012c44;
@@ -2219,7 +2219,7 @@ button {
     padding: 0.7rem 1.7rem;
     display: inline-block;
     color: #000;
-    background: #f7b2b7;
+    background: #84c188;
     border: 0;
     border-radius: 100px;
     font: 700 1rem/1.4rem Akkurat, Helvetica, sans-serif;
@@ -2248,8 +2248,8 @@ button--tag {
     .button:hover,
     button:focus,
     button:hover {
-        background: #64636f;
-        color: #fff;
+        background: #c9e4cb;
+        color: #012c44;
     }
 }
 .button--ghost,
@@ -2307,8 +2307,8 @@ body div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-c
     padding: 0.5rem 1.5rem !important;
 }
 body div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-decline-button {
-    background: #f7b2b7 !important;
-    border-color: #f7b2b7 !important;
+    background: #84c188 !important;
+    border-color: #84c188 !important;
     font: 700 0.85rem/1.4 Akkurat, Helvetica, sans-serif;
     color: #000 !important;
     border-radius: 100px;
@@ -3391,7 +3391,7 @@ blockquote:not(.quote--article) cite .quote__image {
     color: #fff;
 }
 .cta__block.bg-tertiary .button {
-    background: #f7b2b7;
+    background: #84c188;
     color: #000;
 }
 @media only screen and (min-width: 48em) {
@@ -7092,7 +7092,7 @@ html.menu-opening .site-header__menu-navigation.menu-opened {
 }
 .signup-form form .ff-form-errors {
     margin-bottom: 1rem;
-    background: #f7b2b7;
+    background: #84c188;
     padding: 1rem 1.5rem;
     border-radius: 10px;
 }
