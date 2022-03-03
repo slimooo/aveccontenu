@@ -2,8 +2,8 @@
 <div class="post__item bg-white pb-1" data-post-item>
 {% if post.image %}
 <figure class="post__item-image ">
-    <img 
-    alt="{{ post.title }}" 
+    <img
+    alt="{{ post.title }}"
     src="{{ post.image }}"  />
 </figure>
 {% endif %}
@@ -21,16 +21,15 @@
     <div class="space30 d-block d-md-none"></div>
     {% if paginator.page > 1 %}
     <a class='pagination__item tf-bold d-inline-block mx-0-3' href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
-         Previous
+         Précédent
     </a>
     {% endif %}
     {% if paginator.page < paginator.total_pages %}
     <a class='pagination__item tf-bold d-inline-block mx-0-3' href="{{ paginator.next_page_path | prepend: site.baseurl }}">
-        Next 
+        Suivant
     </a>
     {% endif %}
   <span class="pagination__item d-block mx-0-3">
-    page: {{ paginator.page }} of {{ paginator.total_pages }} Pages
+    page: {{ paginator.page }} sur {{ paginator.total_pages }} pages
   </span>
   </div>
-
