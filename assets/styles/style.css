@@ -110,7 +110,7 @@
     background-color: #64636f;
 }
 .bg-black {
-    background-color: #000;
+    background-color: #012c44;
 }
 .bg-white {
     background-color: #fff;
@@ -232,7 +232,7 @@ section {
 body,
 html {
     font: 16px/24px Akkurat, Helvetica, sans-serif;
-    color: #000;
+    color: #012c44;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
