@@ -1,5 +1,5 @@
 .c-primary {
-    color: #d1eeef;
+    color: #c9e4cb;
 }
 .c-primaryDark {
     color: #8bd4d6;
@@ -14,7 +14,7 @@
     color: #f7b2b7;
 }
 .c-tertiary {
-    color: #302e3f;
+    color: #012c44;
 }
 .c-green {
     color: #d7f3e0;
@@ -62,7 +62,7 @@
     color: #00b544;
 }
 .bg-primary {
-    background-color: #d1eeef;
+    background-color: #c9e4cb;
 }
 .bg-primaryDark {
     background-color: #8bd4d6;
@@ -77,7 +77,7 @@
     background-color: #f7b2b7;
 }
 .bg-tertiary {
-    background-color: #302e3f;
+    background-color: #012c44;
 }
 .bg-green {
     background-color: #d7f3e0;
@@ -434,7 +434,7 @@ table thead > tr > th a {
 table tbody > tr > td {
     padding: 0.5rem;
     vertical-align: middle;
-    border-top: 1px solid #d1eeef;
+    border-top: 1px solid #c9e4cb;
     font-size: 0.95rem;
     text-transform: none;
     text-align: left;
@@ -490,7 +490,7 @@ address {
     font-style: normal;
 }
 ::selection {
-    background: #302e3f;
+    background: #012c44;
     color: #fff;
     text-shadow: none;
 }
@@ -1908,7 +1908,7 @@ input:-webkit-autofill:hover {
 }
 .style__block {
     position: relative;
-    border: 1px solid #d1eeef;
+    border: 1px solid #c9e4cb;
 }
 @media only screen and (min-width: 62.5em) {
     .style__block {
@@ -1942,7 +1942,7 @@ input:-webkit-autofill:hover {
 }
 .style__block.style__main > * {
     padding: 3rem 1rem 2rem;
-    border-top: 1px solid #d1eeef;
+    border-top: 1px solid #c9e4cb;
 }
 @media only screen and (min-width: 62.5em) {
     .style__block.style__main {
@@ -2030,7 +2030,7 @@ input:-webkit-autofill:hover {
 .style__block .style__links {
     position: relative;
     padding: 2rem 1rem 1rem;
-    border-top: 1px solid #d1eeef;
+    border-top: 1px solid #c9e4cb;
 }
 @media only screen and (min-width: 62.5em) {
     .style__block .style__buttons,
@@ -2041,7 +2041,7 @@ input:-webkit-autofill:hover {
     }
     .style__block .style__buttons:not(.style__links),
     .style__block .style__links:not(.style__links) {
-        border-right: 1px solid #d1eeef;
+        border-right: 1px solid #c9e4cb;
     }
 }
 .style__block .style__buttons .style__button-group,
@@ -2074,7 +2074,7 @@ input:-webkit-autofill:hover {
 }
 @media only screen and (min-width: 62.5em) {
     .style__block .style__accordions {
-        border-right: 1px solid #d1eeef;
+        border-right: 1px solid #c9e4cb;
         border: 0;
         padding: 2rem 2rem 4rem;
     }
@@ -2141,7 +2141,7 @@ input:-webkit-autofill:hover {
 }
 @media only screen and (min-width: 62.5em) {
     .style__block .style__quotes {
-        border-right: 1px solid #d1eeef;
+        border-right: 1px solid #c9e4cb;
     }
 }
 @media only screen and (min-width: 62.5em) {
@@ -2206,7 +2206,7 @@ input:-webkit-autofill:hover {
     position: absolute;
     left: -200%;
     top: 0;
-    background: #d1eeef;
+    background: #c9e4cb;
     color: #fff;
     padding: 0.8rem;
 }
@@ -2466,10 +2466,10 @@ body div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-d
 .stars-outer .stars-inner:before {
     content: "\e903 \e903 \e903 \e903 \e903";
     font-family: icomoon;
-    color: #d1eeef;
+    color: #c9e4cb;
 }
 body .leadinModal .leadinModal-content {
-    background: #d1eeef !important;
+    background: #c9e4cb !important;
     width: 45em !important;
     border-radius: 8px !important;
     max-height: 80% !important;
@@ -2701,13 +2701,13 @@ blockquote:not(.quote--article) cite .quote__image {
     height: 0;
 }
 .content__switch .switch input:checked + .slider {
-    background-color: #302e3f;
+    background-color: #012c44;
 }
 .content__switch .switch input:checked + .slider:before {
     transform: translateX(26px);
 }
 .content__switch .switch input:focus + .slider {
-    box-shadow: 0 0 1px #302e3f;
+    box-shadow: 0 0 1px #012c44;
 }
 .content__switch .switch .slider {
     position: absolute;
@@ -4162,7 +4162,7 @@ blockquote:not(.quote--article) cite .quote__image {
         width: 55px;
     }
     .index-block:hover {
-        background: #302e3f;
+        background: #012c44;
         color: #fff;
     }
     .index-block:hover a {
@@ -6308,7 +6308,7 @@ html.menu-opening .site-header__menu-navigation.menu-opened {
 }
 @media only screen and (max-width: 47.99em) {
     .product-demo__slides > li:first-child {
-        background-color: #d1eeef;
+        background-color: #c9e4cb;
     }
     .product-demo__slides > li:nth-child(2) {
         background-color: #f7f2f9;
