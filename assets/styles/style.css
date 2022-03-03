@@ -2264,7 +2264,7 @@ button--ghost {
     button--ghost:focus,
     button--ghost:hover {
         background: transparent;
-        color: #fff;
+        color: #012c44;
     }
 }
 .button.button--play,
