@@ -4,26 +4,25 @@ title:  "test"
 categories: jekyll update
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<div class="article__large-content mb-2 mt-1">
+        <h3></h3>
+        <p dir="ltr">
+            There have been some huge challenges facing entrepreneurs recently. The not inconsiderable difficulties of Brexit, Covid-19, global supply chain delays, raw material shortages and climate change amongst them! The startups that
+            have survived and flourished have been the ones that were most dynamic and creative by nature. These traits are inherent to enterprises that are collaborative by nature.
+        </p>
+        <p dir="ltr">
+            What better way is there to have innovation baked into the DNA of a startup than by having a team of founders? This way, there’s at least one other voice, to question, contest, suggest and propose. Ensuring your business
+            strategy has been tested, isn’t subject to bias and is in the best shape possible to achieve growth and succeed.
+        </p>
+        <p dir="ltr">Below we discuss the best ways to find a co-founder. <br></p>
+        <div class="article__quote mb-2">
+        <blockquote class="quote quote--article">
+        <p class="m-0">
+            “Accountancy Cloud helps us to hire quickly, they consistently provide affordable essential accountancy services and they’ve supported our R&amp;D tax credit application every year successfully!”
+        </p>
+        <cite>
+            Saasha Celestial-One, Co-Founder &amp; COO of OLIO
+        </cite>
+     </blockquote>
+      </div>
+    </div>
