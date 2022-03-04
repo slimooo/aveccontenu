@@ -3,16 +3,16 @@ layout: page
 title:  "Tarifs"
 categories: jekyll update
 ---
-<div class="max__body-width"> <div class="article__cta my-3 p-2 bg-primary"> <h3 class="mt-0">Abla Analytics Standard</h3> <span class="tf-bold d-block"> Parfait pour gérer l'audience de ses sites </span> <div class="article__cta-list"> <ul data-type="checklist"> <li>Exemption consentement RGPD</li><li>Sites illimités</li><li>Trafic illimité</li><li>Contournement AdBlock</li><li>Conservation des données illimitées</li><li>Hébergement en France</li></ul> </div><a class="button td-none mt-1-5 bg-white" href="#" title="Tester Abla Analytics Standard" target="_blank" rel="noopener noreferrer"> 30 jours gratuits </a> </div></div>
-
-<div class="max__body-width"> <div class="article__cta my-3 p-2 bg-primary"> <h3 class="mt-0">Abla Analytics Plus</h3> <span class="tf-bold d-block">Idéal pour les équipes et les agences web </span> <div class="article__cta-list"> <ul data-type="checklist"> <li>Tout Abla Analytics Standard</li><li>Multi-comptes utilisateurs</li><li>Partage des accès avec des tiers</li><li>Personnalisation de l'interface</li><li>Nom de domaine personnalisable</li></ul> </div><a class="button td-none mt-1-5 bg-white" href="#" title="Tester Abla Analytics Standard" target="_blank" rel="noopener noreferrer"> 30 jours gratuits </a> </div></div>
-
 <div class="article__body">
     <p>Nous proposons deux offres :</p>
 <ul>
   <li>Abla Analytics Standard</li>
   <li>Abla Analytics Plus</li>
 </ul>
+
+<div class="max__body-width"> <div class="article__cta my-3 p-2 bg-primary"> <h3 class="mt-0">Abla Analytics Standard</h3> <span class="tf-bold d-block"> Parfait pour gérer l'audience de ses sites </span> <div class="article__cta-list"> <ul data-type="checklist"> <li>Exemption consentement RGPD</li><li>Sites illimités</li><li>Trafic illimité</li><li>Contournement AdBlock</li><li>Conservation des données illimitées</li><li>Hébergement en France</li></ul> </div><a class="button td-none mt-1-5 bg-white" href="#" title="Tester Abla Analytics Standard" target="_blank" rel="noopener noreferrer"> 30 jours gratuits </a> </div></div>
+
+<div class="max__body-width"> <div class="article__cta my-3 p-2 bg-primary"> <h3 class="mt-0">Abla Analytics Plus</h3> <span class="tf-bold d-block">Idéal pour les équipes et les agences web </span> <div class="article__cta-list"> <ul data-type="checklist"> <li>Tout Abla Analytics Standard</li><li>Multi-comptes utilisateurs</li><li>Partage des accès avec des tiers</li><li>Personnalisation de l'interface</li><li>Nom de domaine personnalisable</li></ul> </div><a class="button td-none mt-1-5 bg-white" href="#" title="Tester Abla Analytics Standard" target="_blank" rel="noopener noreferrer"> 30 jours gratuits </a> </div></div>
 
 <p>Chaque offre se présente avec une <strong>période d’essai de 30 jours</strong>, sans engagement. Vous pouvez mettre fin à tout moment à votre abonnement, pendant la période d’essai ou après.</p>
 
