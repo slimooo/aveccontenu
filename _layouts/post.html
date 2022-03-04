@@ -6,7 +6,7 @@ layout: default
 <section class="content__body px-1-5 py-4 bg-white">
 <article class="article max__body-width">
   <div class="article__meta mb-2">
-    <p class="f-mono ts-0-9" itemprop="datePublished">{{ page.date | "%d/%m/%Y" }}</p>
+    <p class="f-mono ts-0-9" itemprop="datePublished">{{ page.date | date: "%d/%m/%Y" }}</p>
   </div>
   <div class="article__body">
     {{ page.content }}
