@@ -1,7 +1,8 @@
 ---
+title: "Tarifs"
+image: "/assets/images/blogs/blog_10.jpg"
+date: 2022-02-18 00:07:25 +0600
 layout: post
-title:  "Tarifs"
-categories: jekyll update
 ---
 Nous proposons deux offres :
 - Abla Analytics Standard
