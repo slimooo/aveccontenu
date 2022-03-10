@@ -47,7 +47,7 @@
     color: #64636f;
 }
 .c-black {
-    color: #000;
+    color: #012c44;
 }
 .c-white {
     color: #fff;
@@ -2644,7 +2644,7 @@ blockquote:not(.quote--article) cite .quote__image {
 .quote--article {
     position: relative;
     margin: 0;
-    color: #000;
+    color: #012c44;
     font: 1.8rem/2.2rem Akkurat, Helvetica, sans-serif;
 }
 @media only screen and (min-width: 48em) {
@@ -2655,7 +2655,7 @@ blockquote:not(.quote--article) cite .quote__image {
 .quote--article cite {
     position: relative;
     font: 400 0.95rem/1.2rem Akkurat Mono, Helvetica, sans-serif;
-    color: #000;
+    color: #012c44;
     text-transform: none;
     margin: 1.5rem 0 0;
     display: -ms-flexbox;
@@ -5621,7 +5621,7 @@ html.menu-opening .site-header__menu-navigation.menu-opened {
 }
 .site-header__menu-button span {
     display: block;
-    background: #000;
+    background: #012c44;
     border-radius: 2px;
     transition: 0.2s ease-in-out;
 }
