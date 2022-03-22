@@ -30,67 +30,67 @@ categories: jekyll update
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">5000</td>
+      <td style="text-align: left">5 K</td>
       <td style="text-align: left">0</td>
       <td style="text-align: left">99</td>
     </tr>
     <tr>
-      <td style="text-align: left">10000</td>
+      <td style="text-align: left">10 K</td>
       <td style="text-align: left">6</td>
       <td style="text-align: left">104</td>
     </tr>
     <tr>
-      <td style="text-align: left">100000</td>
+      <td style="text-align: left">100 K</td>
       <td style="text-align: left">13</td>
       <td style="text-align: left">109</td>
     </tr>
     <tr>
-      <td style="text-align: left">200000</td>
+      <td style="text-align: left">200 K</td>
       <td style="text-align: left">19</td>
       <td style="text-align: left">114</td>
     </tr>
     <tr>
-      <td style="text-align: left">500000</td>
+      <td style="text-align: left">500 K</td>
       <td style="text-align: left">31</td>
       <td style="text-align: left">124</td>
     </tr>
     <tr>
-      <td style="text-align: left">2000000</td>
+      <td style="text-align: left">2 M</td>
       <td style="text-align: left">44</td>
       <td style="text-align: left">134</td>
     </tr>
     <tr>
-      <td style="text-align: left">5000000</td>
+      <td style="text-align: left">5 M</td>
       <td style="text-align: left">81</td>
       <td style="text-align: left">164</td>
     </tr>
     <tr>
-      <td style="text-align: left">10000000</td>
+      <td style="text-align: left">10 M</td>
       <td style="text-align: left">106</td>
       <td style="text-align: left">184</td>
     </tr>
     <tr>
-      <td style="text-align: left">15000000</td>
+      <td style="text-align: left">15 M</td>
       <td style="text-align: left">115</td>
       <td style="text-align: left">191</td>
     </tr>
     <tr>
-      <td style="text-align: left">20000000</td>
+      <td style="text-align: left">20 M</td>
       <td style="text-align: left">153</td>
       <td style="text-align: left">221</td>
     </tr>
     <tr>
-      <td style="text-align: left">25000000</td>
+      <td style="text-align: left">25 M</td>
       <td style="text-align: left">171</td>
       <td style="text-align: left">236</td>
     </tr>
     <tr>
-      <td style="text-align: left">50000000</td>
+      <td style="text-align: left">50 M</td>
       <td style="text-align: left">313</td>
       <td style="text-align: left">249</td>
     </tr>
     <tr>
-      <td style="text-align: left">100000000</td>
+      <td style="text-align: left">100 M</td>
       <td style="text-align: left">563</td>
       <td style="text-align: left">549</td>
     </tr>
