@@ -2424,6 +2424,9 @@ body div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-d
 .icon-linkedin:before {
     content: "\e906";
 }
+.icon-instagram:before {
+    content: "\e916";
+}
 .icon-play:before {
     content: "\e907";
 }
