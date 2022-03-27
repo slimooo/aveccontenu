@@ -15,6 +15,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-news-sitemap
+  - jekyll-minifier
 
 collections:
   case_studies:
