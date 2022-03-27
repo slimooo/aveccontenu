@@ -322,7 +322,7 @@ strong {
     font-weight: 600;
 }
 a {
-    color: #335c81;
+    color: #012c44;
     text-decoration: underline;
 }
 @media only screen and (min-width: 77em) {
@@ -2246,7 +2246,7 @@ button--tag {
         transition: background 0.4s ease-in-out, color 0.2s ease-in-out;
     }
     .button:focus,
-    
+
     button:focus,
 
 }
