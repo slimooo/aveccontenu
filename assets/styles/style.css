@@ -2246,12 +2246,9 @@ button--tag {
         transition: background 0.4s ease-in-out, color 0.2s ease-in-out;
     }
     .button:focus,
-    .button:hover,
+    
     button:focus,
-    button:hover {
-        background: #c9e4cb;
-        color: #012c44;
-    }
+
 }
 .button--ghost,
 button--ghost {
@@ -6405,10 +6402,7 @@ html.menu-opening .site-header__menu-navigation.menu-opened {
 .product-demo__controls button path {
     transition: color 0.3s ease;
 }
-.product-demo__controls button:hover {
-    color: #fff;
-    background-color: #2f8285;
-}
+
 .product-demo__controls button:focus {
     outline: none;
 }
