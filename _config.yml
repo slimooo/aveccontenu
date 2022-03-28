@@ -18,8 +18,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-news-sitemap
   - jekyll-responsive-image
-
-gems:
+  - jekyll-target-blank
   - jekyll-minifier
 
 collections:
