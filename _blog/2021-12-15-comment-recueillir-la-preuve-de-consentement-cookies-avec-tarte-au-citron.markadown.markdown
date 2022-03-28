@@ -28,8 +28,6 @@ Parmi les solutions proposées par la CNIL :
         </cite>
      </blockquote>
 
-> "".
-
 Le service gratuit [Wayback Machine](https://web.archive.org/) de l'Internet Archive peut être envisagé pour sauvegarder vos applications et être en mesure de prouver qu'elles utilisent une version correctement configurée de Tarte au citron pour recueillir le consentement.
 
 ## La configuration de Wayback Machine pour recueillir la preuve de consentement
@@ -52,7 +50,5 @@ La procédure pour sauvegarder une application web est relativement simple, il s
 </div>
 
 Pour obtenir un bon niveau de preuves que le consentement est correctement effectué par Tarte au citron sur l'ensemble de l'application, il peut également être pertinent de sauvegarder un échantillon représentatif des différentes pages des applications, en particulier, les pages qui nécessitent le recueil du consentement (les pages avec des vidéos YouTube, Dailymotion, des réseaux sociaux, etc.).
-
-<iframe src="https://abla.io/assets/videos/webbackmachine.mp4" loading="lazy" frameborder="0" allowfullscreen></iframe>
 
 Cette approche a cependant un inconvénient majeur, elle nécessite des moyens humains significatifs pour sauvegarder les différentes pages d’une application et archiver les liens de la « Wayback Machine » pour une utilisation ultérieure.
