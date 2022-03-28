@@ -26,7 +26,7 @@ layout: default
         <div class="post__item bg-white pb-1" data-post-item>
           {% if post.image %}
           <figure class="post__item-image ">
-            <img width="640" height="426" alt="{{ post.title }}" src="http://abla.io/{{ post.image }}" />
+            <img width="640" height="426" alt="{{ post.title }}" src="{{ post.image }}" />
           </figure>
           {% endif %}
           <div class="post__item-meta px-1 ">
