@@ -18,6 +18,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-news-sitemap
   - jekyll-minifier
+  - jekyll-responsive-image
 
 collections:
   case_studies:
