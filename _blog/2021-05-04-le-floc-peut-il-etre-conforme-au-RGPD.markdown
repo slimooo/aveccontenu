@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Le FloC est-il conforme au RGPD ?"
-authors: Caroline GUILLAUMOT
-date:   2021-05-04 15:01:35 +0300
 image:  "assets/images-blog/floc-google-alternative-cookies.webp"
-tags:   [analytics, RGPD]
+date:   2021-05-04 15:01:35 +0300
+layout: post
 ---
 
 Google prévoit d’utiliser sur son navigateur Chrome la technologie FloC, ou Federated Learning of Cohorts. Il s’agit d’une technologie open source permettant de suivre la navigation de l’utilisateur sur internet pour lui proposer de la publicité ciblée. Son utilisation soulève toutefois de nombreuses critiques, car elle n’est pas respectueuse de la vie privée de la personne.

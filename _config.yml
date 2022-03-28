@@ -23,7 +23,7 @@ collections:
   case_studies:
     output: true
     permalink: /:collection/:path
-  blogs:
+  blog:
     output: true
     permalink: /:collection/:path
     permalink: /:collection/:path
