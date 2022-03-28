@@ -17,8 +17,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-news-sitemap
-  - jekyll-minifier
   - jekyll-responsive-image
+
+gems:
+  - jekyll-minifier
 
 collections:
   case_studies:
