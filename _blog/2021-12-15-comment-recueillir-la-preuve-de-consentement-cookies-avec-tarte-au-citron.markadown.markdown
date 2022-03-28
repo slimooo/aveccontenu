@@ -19,7 +19,16 @@ Avec [Tarte au Citron](https://tarteaucitron.io/fr/), c'est un peu plus complexe
 
 Parmi les solutions proposées par la CNIL :
 
-> "Les différentes versions du code informatique utilisé par l’organisme recueillant le consentement peuvent être mises sous séquestre auprès d’un tiers, ou, plus simplement, un condensat (ou « hash ») de ce code peut être publié de façon horodatée sur une plate-forme publique, pour pouvoir prouver son authenticité a posteriori".
+<blockquote class="quote quote--article">
+        <p class="m-0">
+            “Les différentes versions du code informatique utilisé par l’organisme recueillant le consentement peuvent être mises sous séquestre auprès d’un tiers, ou, plus simplement, un condensat (ou « hash ») de ce code peut être publié de façon horodatée sur une plate-forme publique, pour pouvoir prouver son authenticité a posteriori”
+        </p>
+        <cite>
+            Commission Nationale de l'Informatique et des Libertés
+        </cite>
+     </blockquote>
+
+> "".
 
 Le service gratuit [Wayback Machine](https://web.archive.org/) de l'Internet Archive peut être envisagé pour sauvegarder vos applications et être en mesure de prouver qu'elles utilisent une version correctement configurée de Tarte au citron pour recueillir le consentement.
 
