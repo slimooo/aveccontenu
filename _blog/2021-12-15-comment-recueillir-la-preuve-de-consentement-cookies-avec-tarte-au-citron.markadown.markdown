@@ -45,8 +45,14 @@ La procédure pour sauvegarder une application web est relativement simple, il s
 3. Cliquer sur le bouton "Save Page"
 4. Conserver le lien généré par la « Wayback Machine » afin d’être en mesure de consulter la version archivée ultérieurement
 
-<p><iframe src="https://abla.io/assets/videos/webbackmachine.mp4" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<div class="article__video mb-2" data-video="true">
+    <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
+        <iframe src="https://abla.io/assets/videos/webbackmachine.mp4" loading="lazy" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
 
 Pour obtenir un bon niveau de preuves que le consentement est correctement effectué par Tarte au citron sur l'ensemble de l'application, il peut également être pertinent de sauvegarder un échantillon représentatif des différentes pages des applications, en particulier, les pages qui nécessitent le recueil du consentement (les pages avec des vidéos YouTube, Dailymotion, des réseaux sociaux, etc.).
+
+<iframe src="https://abla.io/assets/videos/webbackmachine.mp4" loading="lazy" frameborder="0" allowfullscreen></iframe>
 
 Cette approche a cependant un inconvénient majeur, elle nécessite des moyens humains significatifs pour sauvegarder les différentes pages d’une application et archiver les liens de la « Wayback Machine » pour une utilisation ultérieure.
