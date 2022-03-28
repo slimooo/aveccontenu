@@ -17,9 +17,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-news-sitemap
+<<<<<<< HEAD
   - jekyll-responsive-image
   - jekyll-target-blank
+=======
+>>>>>>> parent of f5a2325 (gem min)
   - jekyll-minifier
+  - jekyll-responsive-image
 
 collections:
   case_studies:
