@@ -9,7 +9,7 @@ tags:   [consentement CNIL]
 
 Lorsqu'on souhaite connaître le trafic sur son site, que l'on ajoute des bannières publicitaires ou des vidéos, il arrive souvent que l'on fasse appel à des services tiers déposants des traceurs appelés cookies. Sauf exemption, l'éditeur du site a l'obligation de collecter le consentement du visiteur puisque l'utilisation de ces traceurs implique souvent la collecte de données personnelles.
 
-Pour ce faire, il existe aujourd'hui sur le marché plusieurs solutions pour l'affichage d'une "bannière cookies" à la première connexion du visiteur. Certaines sont proposées moyennant finance par des éditeurs (ex : [Didomi](https://support.didomi.io/fr/analytics) ou [Axeptio](https://www.axeptio.eu/post/les-cookies-google-analytics-sont-ils-soumis-au-consentement)), et d'autres sont des solutions libres et gratuites. 
+Pour ce faire, il existe aujourd'hui sur le marché plusieurs solutions pour l'affichage d'une "bannière cookies" à la première connexion du visiteur. Certaines comme [Axeptio](https://www.axeptio.eu/post/les-cookies-google-analytics-sont-ils-soumis-au-consentement) sont proposées moyennant finance, et d'autres sont des solutions libres et gratuites. 
 
 Tarte au Citron fait partie des solutions libres les plus utilisées. Bien que très facile à configurer, elle présente toutefois quelques lacunes :
 - pas de gestion en natif de la preuve de consentement;
