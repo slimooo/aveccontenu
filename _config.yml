@@ -20,6 +20,8 @@ plugins:
   - jekyll-minifier
   - jekyll-responsive-image
 
+lsi: true
+
 collections:
   case_studies:
     output: true
