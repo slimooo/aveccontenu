@@ -2,7 +2,7 @@ title: "Abla Analytics"
 email: "bonjour@abla.io"
 description: >- # this means to ignore newlines until "baseurl:"
   Abla c’est simplement une solution de mesure d'audience pour les sites internet. Notre différence avec Google Analytics ? On est respectueux par défaut au RGPD et aux recommandations de la CNIL.
-tagline : "Mesure d'audience alternative à Google Analytics"
+tagline : "Mesure d'audience alternative à Google Analytics, conforme RGPD et cookies CNIL"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "abla.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
@@ -24,6 +24,9 @@ keywords: "alternative google analytics, cnil cookies, cookies cnil, google anal
 #permalink: "/:title"
 # Build settings
 theme: minima
+feed:
+  collection:
+    - blog
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
