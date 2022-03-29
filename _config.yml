@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Abla c’est simplement une solution de mesure d'audience pour les sites internet. Notre différence avec Google Analytics ? On est respectueux par défaut au RGPD et aux recommandations de la CNIL.
 tagline : "Mesure d'audience alternative à Google Analytics, conforme RGPD et cookies CNIL"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "abla.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abla.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: ablaanalytics
   card: summary_large_image
