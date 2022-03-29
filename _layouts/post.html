@@ -12,7 +12,7 @@ layout: default
   </div>
 </article>
 </section>
-<section class="content__pagination px-1-5 py-4 bg-secondary">
+<section class="content__pagination px-1-5 py-4 bg-tertiary">
 <div class="max__body-width">
   <div class="resources__block">
     <div class="resources__heading mb-4">
@@ -26,7 +26,6 @@ layout: default
           {% if post.image %}
           <figure class="post__item-image ">
             <img width="640" height="426" alt="{{ post.title }}" src="http://abla.io/{{ post.image }}" />
-            <img width="640" height="426" alt="{{ post.title }}" src="{{ post.image }}" />
           </figure>
           {% endif %}
           <div class="post__item-meta px-1 ">
@@ -41,7 +40,7 @@ layout: default
         {% endfor %}
       </div>
       <div class="resources__button">
-        <a href="/blogs" title="{{ site.title }}" aria-label="{{ site.title }}" class="bg-black button td-none"> Toutes les actualités </a>
+        <a href="https://abla.io/blog" title="{{ site.title }}" aria-label="{{ site.title }}" class="site-header__button button button--ghost td-none tf-bold"> Toutes les actualités </a>
       </div>
     </div>
   </div>
