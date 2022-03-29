@@ -16,16 +16,15 @@ layout: default
 <div class="max__body-width">
   <div class="resources__block">
     <div class="resources__heading mb-4">
-      <h3 class="tf-bold ts-1 mb-0-8"> Derniers articles
-      </h3>
+      <p class="tf-bold ts-1 mb-0-8">Derniers articles</p>
     </div>
     <div class="resources__content">
       <div class="resources__entries">
-        {% for post in site.related_posts  limit: "3" %}
+        {% for post in site.blog  limit: "3" %}
         <div class="post__item bg-white pb-1" data-post-item>
           {% if post.image %}
           <figure class="post__item-image ">
-            <img width="640" height="426" alt="{{ post.title }}" src="http://abla.io/{{ post.image }}" />
+            <img width="640" height="426" alt="{{ post.title }}" src="https://abla.io/{{ post.image }}" />
           </figure>
           {% endif %}
           <div class="post__item-meta px-1 ">
