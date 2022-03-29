@@ -1,12 +1,25 @@
-title: "Abla Analytics | Mesure d'audience alternative à Google Analytics"
+title: "Abla Analytics"
 email: "bonjour@abla.io"
 description: >- # this means to ignore newlines until "baseurl:"
   Abla c’est simplement une solution de mesure d'audience pour les sites internet. Notre différence avec Google Analytics ? On est respectueux par défaut au RGPD et aux recommandations de la CNIL.
+tagline : "Mesure d'audience alternative à Google Analytics"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ablaanalytics
-github_username:  jekyll
+url: "abla.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter:
+  username: ablaanalytics
+  card: summary
+facebook:
+  publisher: facebook.com/ablaanalytics
 logo_url: "/assets/images/logo.svg"
+logo: "/assets/images/logo.svg"
+social:
+  name: Abla analytics
+  links:
+    - https://linkedin.com/company/ablaanalytics/
+    - https://twitter.com/AblaAnalytics
+    - https://www.facebook.com/ablaanalytics
+    - https://instagram.com/ablaanalytics/
+locale: fr_FR
 keywords: "alternative google analytics, cnil cookies, cookies cnil, google analytics rgpd, google analytics alternative, google analytics cookies, matomo CNIL, cnil google analytics, alternative google analytics, cnil matomo, google analytics cnil, cnil cookies wall"
 #permalink: "/:title"
 # Build settings
@@ -23,19 +36,9 @@ plugins:
 lsi: true
 
 collections:
-  case_studies:
-    output: true
-    permalink: /:collection/:path
   blog:
     output: true
     permalink: /:collection/:path
-    permalink: /:collection/:path
-  guides:
-    output: true
-    permalink: /:collection/:path
-    permalink: /:collection/:path
-  podcasts:
-    output: true
     permalink: /:collection/:path
 
 
