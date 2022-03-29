@@ -9,7 +9,7 @@ tags:   [consentement CNIL]
 
 À l'article 4 de ses recommandations sur les cookies et traceurs, la CNIL demande à l'éditeur d'un site de *"démontrer, à tout moment, que les utilisateurs ont donné leur consentement"*. En d'autres termes, en cas de contrôle ou de litige, il faudra apporter la preuve que l'on a bien mis en place une fenêtre cookies et que celle-ci est bien conforme aux recommandations de la CNIL.
 
-Lorsqu'on utilise un Consent Management Plateform (CMP) comme [Didomi](https://support.didomi.io/fr/les-traceurs-exempt%C3%A9s-de-consentement-1) ou [Axeptio](https://www.axeptio.eu/post/quels-sont-les-cookies-exemptes-de-consentement), c'est le prestataire en tant que tiers de confiance qui peut apporter la preuve de l'existence de la collecte de consentement.
+Lorsqu'on utilise un [Consent Management Plateform](https://www.axeptio.eu/post/quels-sont-les-cookies-exemptes-de-consentement) (CMP), c'est le prestataire en tant que tiers de confiance qui peut apporter la preuve de l'existence de la collecte de consentement.
 
 NB : lorsque vous utilisez que des [outils exemptés de consentement comme Abla Analytics](https://abla.io), et aucun autre service utilisant des traceurs, la mise en place d'un CMP devient facultative.
 
@@ -27,6 +27,7 @@ Parmi les solutions proposées par la CNIL :
             Commission Nationale de l'Informatique et des Libertés
         </cite>
      </blockquote>
+
 
 Le service gratuit [Wayback Machine](https://web.archive.org/) de l'Internet Archive peut être envisagé pour sauvegarder vos applications et être en mesure de prouver qu'elles utilisent une version correctement configurée de Tarte au citron pour recueillir le consentement.
 
