@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {% include page_header.html collection_name="blogs" %}
 <section class="content__body px-1-5 py-4 bg-white">
 <article class="article max__body-width">
@@ -13,7 +12,7 @@ layout: default
   </div>
 </article>
 </section>
-<section class="content__pagination px-1-5 py-4 bg-tertiary">
+<section class="content__pagination px-1-5 py-4 bg-secondary">
 <div class="max__body-width">
   <div class="resources__block">
     <div class="resources__heading mb-4">
@@ -26,7 +25,8 @@ layout: default
         <div class="post__item bg-white pb-1" data-post-item>
           {% if post.image %}
           <figure class="post__item-image ">
-            <img width="640" height="426" alt="{{ post.title }}" src="https://abla.io/{{ post.image }}" />
+            <img width="640" height="426" alt="{{ post.title }}" src="http://abla.io/{{ post.image }}" />
+            <img width="640" height="426" alt="{{ post.title }}" src="{{ post.image }}" />
           </figure>
           {% endif %}
           <div class="post__item-meta px-1 ">
@@ -41,7 +41,7 @@ layout: default
         {% endfor %}
       </div>
       <div class="resources__button">
-        <a href="https://abla.io/blogs" title="{{ site.title }}" aria-label="{{ site.title }}" class="button td-none mt-1-5 bg-white"> Toutes les actualités </a>
+        <a href="/blogs" title="{{ site.title }}" aria-label="{{ site.title }}" class="bg-black button td-none"> Toutes les actualités </a>
       </div>
     </div>
   </div>
