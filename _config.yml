@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "abla.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: ablaanalytics
-  card: summary
+  card: summary_large_image
 facebook:
   publisher: facebook.com/ablaanalytics
 logo_url: "/assets/images/logo.svg"

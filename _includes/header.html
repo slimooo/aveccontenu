@@ -1,13 +1,12 @@
 <!doctype html>
 <html lang="fr-fr" dir="ltr" class="no-js">
   <head>
+    {% seo %}
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <title>{% if page.title %} {{page.title}} {% else %} {{ site.title }} {% endif %}</title>
     <meta name="description" content="{{ site.description }}" />
     <meta name="keywords" content="{{ site.keywords }}" />
-    <link rel="canonical" href="{{ page.url }}" />
     <link rel="apple-touch-icon" sizes="180x180" href="https://abla.io/assets/images/180x180.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="https://abla.io/assets/images/32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="https://abla.io/assets/images/16x16.png" />
@@ -16,26 +15,11 @@
     <meta name="msapplication-TileColor" content="#c9e4cb" />
     <meta name="theme-color" content="#c9e4cb" />
     <link rel="stylesheet" href="https://abla.io/assets/styles/style.css" />
-    <meta property="og:url" content="https://abla.io"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Abla Analytics - Mesure d'audience"/>
-    <meta property="og:image" content="https://abla.io/assets/images/abla-analytics-twitter.jpg"/>
-    <meta property="og:description" content="Abla c’est simplement une solution de mesure d'audience pour les sites internet. Notre différence avec Google Analytics ? On est respectueux par défaut au RGPD et aux recommandations de la CNIL."/>
-    <meta property="og:site_name" content="Abla Analytics"/>
-    <meta property="og:locale" content="fr_FR"/>
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:site" content="https://abla.io"/>
-    <meta name="twitter:title" content="Abla Analytics - Mesure d'audience"/>
-    <meta name="twitter:description" content="Abla c’est simplement une solution de mesure d'audience pour les sites internet. Notre différence avec Google Analytics ? On est respectueux par défaut au RGPD et aux recommandations de la CNIL."/>
-    <meta name="twitter:image" content="https://abla.io/assets/images/abla-analytics-twitter.jpg"/>
     <link rel="home" href="https://abla.io"/>
     <script>const htmlEl=document.documentElement; htmlEl.classList.remove('no-js'); htmlEl.classList.add('js'); </script>
     <script async defer data-website-id="7643e7bc-0b1e-4d7e-a7d8-003ce55aa292" src="https://s.abla.io/abla.js"></script>
     <script>window.$crisp=[];window.CRISP_WEBSITE_ID="cfffa3cc-a9a9-459f-836f-5b1fcbb54851";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     <link rel="manifest" href="site.webmanifest">
-
-{% seo %}
-
   </head>
   <body itemtype="https://schema.org/WebPage" data-template="{{ page.url }}" class="bg-primary env--production slug--blogs entry-type--resources-sub template--templates/resources-sub">
     <!--[if IE 9]>
