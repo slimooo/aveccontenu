@@ -30,6 +30,6 @@ Cette solution on a décidé de l’appeler **3615 Abla** !
 
 Vous mourrez d’impatience de découvrir 3615 Abla. Alors sans plus attendre, nous vous présentons notre compteur de visites à personnaliser :
 
-![UI/UX Moderne](https://abla.io/assets/images-blog/compteur-de-visites.webp)
+![UI/UX Moderne](https://abla.io/assets/images-blog/compteur-visites.webp)
 
 Pas besoin de préciser qu’il s’agit bien évidemment d’un poisson d’avril. La nostalgie de la fin des années 90 nous a rattrapée : époque sans RGPD, où le Skyblog était roi, et où le duplicate content sur les annuaires était la base du référencement. 
