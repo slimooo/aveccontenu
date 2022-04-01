@@ -2,7 +2,7 @@
 layout: post
 title: "Abla Analytics lance un outil révolutionnaire !"
 authors: Slim TOUHAMI
-date:   2022-03-31 07:00:33 +0300
+date:   2022-04-01 03:00:33 +0300
 image:  "assets/images-blog/compteur-de-visites.webp"
 tags:   [consentement CNIL]
 ---
