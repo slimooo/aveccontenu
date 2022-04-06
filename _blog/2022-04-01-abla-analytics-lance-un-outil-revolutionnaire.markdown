@@ -5,6 +5,7 @@ authors: Slim TOUHAMI
 date:   2022-04-01 03:00:33 +0300
 image:  "assets/images-blog/compteur-de-visites.webp"
 tags:   [consentement CNIL]
+published: false
 ---
 
 Chez Abla l’innovation ça nous connaît. Ce matin, on se demandait comment révolutionner le secteur de l’analytics, et on s’est dit et pourquoi pas revenir à l’essentiel, à nos basiques.
@@ -15,7 +16,7 @@ Oubliez A/B testing, API, dashboard hypercompliqué... Avec cette nouvelle solut
 
 Alliant efficacité et esthétique, cet outil deviendra un must have pour votre mesure d’audience. Vous ne pourrez alors plus vous passer de cette solution, qui se rendra rapidement indispensable pour analyser la visibilité de vos contenus.
 
-Quelques incroyables fonctionnalités : 
+Quelques incroyables fonctionnalités :
 - Un design éprouvé
 - Une compatibilité Internet Explorer 5.5 et Netscape garantie
 - Une application légère de 35 Mb
@@ -36,4 +37,4 @@ Vous mourrez d’impatience de découvrir 3615 Abla. Alors sans plus attendre, n
 
 ![](https://abla.io/assets/images-blog/compteur-visites.webp)
 
-Pas besoin de préciser qu’il s’agit bien évidemment d’un poisson d’avril. La nostalgie de la fin des années 90 nous a rattrapée : époque sans RGPD, où le Skyblog était roi, et où le duplicate content sur les annuaires était la base du référencement. 
+Pas besoin de préciser qu’il s’agit bien évidemment d’un poisson d’avril. La nostalgie de la fin des années 90 nous a rattrapée : époque sans RGPD, où le Skyblog était roi, et où le duplicate content sur les annuaires était la base du référencement.
