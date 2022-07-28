@@ -43,8 +43,6 @@ Avec ces outils vous pouvez également oublier l'expérience utilisateur adapté
 
 ## Abla Analytics propose-t-elle une version gratuite ?
 
-Abla Analytics propose une [solution analytics gratuite](https://abla.io/alternative-google-analytics-pas-cher.html#analytics-gratuit) et à vie pour les sites générant moins de 5.000 pages vues par mois.
+Abla Analytics propose une [solution analytics gratuite](https://abla.io/alternative-google-analytics-pas-cher.html#analytics-gratuit) et à vie pour les sites générant moins de 50.000 pages vues par mois.
 
-Pour les autres sites, nous proposons une période d'essai de 30 jours sans engagement. Nos tarifs sont des plus compétitifs et débutent à partir de 6€ par mois. Si vous trouvez moins chers ailleurs n'hésitez pas pas à nous [envoyer un mail](mailto:bonjour@abla.io)!
-
-En résumé, une solution gratuite, aussi avancée que Google Analytics et conforme au RGPD, est un mouton à 5 pattes. 
+Pour les autres sites, nos tarifs sont des plus compétitifs et débutent à partir de 15€ par mois. Si vous trouvez moins chers ailleurs n'hésitez pas pas à nous [envoyer un mail](mailto:bonjour@abla.io)!
